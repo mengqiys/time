@@ -1,10 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="e5927370-edb6-4e5c-852b-51d674f9c379" name="ONQLin">
+    <account id="ebd79313-de54-431c-b414-8b2f1544651f" name="ONQLin">
       <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
